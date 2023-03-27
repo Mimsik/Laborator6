@@ -1,2 +1,16 @@
-dfhfbd f
-fdfjknd
+[Student] - (View grades)
+[Student] - (View University Details)
+[Teacher] - (Add Grades)
+[Teacher] - (View Students)
+[Teacher] - (Add Student)
+[Admin] - (Add Subject)
+[Admin] - (Create Account)
+(View grades)> Log in
+(View University Details)> Log in
+(Add Grades)> Log in
+(View Students)> Log in
+(Add Student)> Log in
+(Add Student)<(Display Already Added Error)
+(Create Account)<(Display Already Created Error)
+(Log in)<(Display Account Locked Error)
+(Log in)>(Verify Credentials)
