@@ -26,5 +26,10 @@
 
    <Text fx:id="loginMessage" GridPane.columnIndex="1" GridPane.rowIndex="6"/>
 </GridPane>
+<<<<<<< HEAD
 // Modificari student B
+=======
+//modificari student A
+
+>>>>>>> f50dcbbc767e6a9156198b018e789a4b33dbf892
 
